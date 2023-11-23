@@ -1,0 +1,496 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Margalo Vanyushkin",
+      "telefono": "970-359-4201",
+      "correo": "mvanyushkin0@slideshare.net",
+      "nota": 1.1,
+      "promedio": 2.7,
+      "materiaId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Jeth Ferrara",
+      "telefono": "316-703-2627",
+      "correo": "jferrara1@amazonaws.com",
+      "nota": 4.5,
+      "promedio": 4.2,
+      "materiaId": 4
+    },
+    {
+      "id": 3,
+      "nombre": "Frankie Eskriett",
+      "telefono": "713-961-7870",
+      "correo": "feskriett2@51.la",
+      "nota": 4.2,
+      "promedio": 3.8,
+      "materiaId": 5
+    },
+    {
+      "id": 4,
+      "nombre": "Cathee Habbergham",
+      "telefono": "626-167-5502",
+      "correo": "chabbergham3@sbwire.com",
+      "nota": 1.7,
+      "promedio": 2.0,
+      "materiaId": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Larry Rayer",
+      "telefono": "852-696-6212",
+      "correo": "lrayer4@i2i.jp",
+      "nota": 1.6,
+      "promedio": 1.2,
+      "materiaId": 6
+    },
+    {
+      "id": 6,
+      "nombre": "Laurianne Immins",
+      "telefono": "482-821-3742",
+      "correo": "limmins5@engadget.com",
+      "nota": 2.4,
+      "promedio": 2.0,
+      "materiaId": 10
+    },
+    {
+      "id": 7,
+      "nombre": "Maiga Shard",
+      "telefono": "173-884-7875",
+      "correo": "mshard6@cornell.edu",
+      "nota": 3.2,
+      "promedio": 2.8,
+      "materiaId": 2
+    },
+    {
+      "id": 8,
+      "nombre": "Omero Ray",
+      "telefono": "971-651-3257",
+      "correo": "oray7@weather.com",
+      "nota": 3.2,
+      "promedio": 1.2,
+      "materiaId": 6
+    },
+    {
+      "id": 9,
+      "nombre": "Bria Brislane",
+      "telefono": "417-369-7650",
+      "correo": "bbrislane8@zimbio.com",
+      "nota": 2.6,
+      "promedio": 1.6,
+      "materiaId": 6
+    },
+    {
+      "id": 10,
+      "nombre": "Inger McMorran",
+      "telefono": "631-636-7706",
+      "correo": "imcmorran9@mashable.com",
+      "nota": 2.2,
+      "promedio": 3.6,
+      "materiaId": 9
+    },
+    {
+      "id": 11,
+      "nombre": "Wake Degue",
+      "telefono": "214-519-4910",
+      "correo": "wdeguea@usgs.gov",
+      "nota": 2.8,
+      "promedio": 5.0,
+      "materiaId": 5
+    },
+    {
+      "id": 12,
+      "nombre": "Aksel Senn",
+      "telefono": "928-267-9674",
+      "correo": "asennb@mtv.com",
+      "nota": 3.7,
+      "promedio": 2.6,
+      "materiaId": 9
+    },
+    {
+      "id": 13,
+      "nombre": "Viv Cordon",
+      "telefono": "712-162-7286",
+      "correo": "vcordonc@pcworld.com",
+      "nota": 3.9,
+      "promedio": 1.0,
+      "materiaId": 3
+    },
+    {
+      "id": 14,
+      "nombre": "Riordan Snowling",
+      "telefono": "591-337-4240",
+      "correo": "rsnowlingd@ted.com",
+      "nota": 4.0,
+      "promedio": 4.2,
+      "materiaId": 3
+    },
+    {
+      "id": 15,
+      "nombre": "Scarlett Dandison",
+      "telefono": "789-557-7714",
+      "correo": "sdandisone@last.fm",
+      "nota": 2.0,
+      "promedio": 1.1,
+      "materiaId": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Patsy Giordano",
+      "telefono": "416-204-1264",
+      "correo": "pgiordanof@google.de",
+      "nota": 3.6,
+      "promedio": 3.2,
+      "materiaId": 7
+    },
+    {
+      "id": 17,
+      "nombre": "Ogden Dixie",
+      "telefono": "725-942-9700",
+      "correo": "odixieg@theglobeandmail.com",
+      "nota": 3.5,
+      "promedio": 4.6,
+      "materiaId": 8
+    },
+    {
+      "id": 18,
+      "nombre": "Sheri Van Halen",
+      "telefono": "957-955-9942",
+      "correo": "svanh@acquirethisname.com",
+      "nota": 4.7,
+      "promedio": 1.6,
+      "materiaId": 7
+    },
+    {
+      "id": 19,
+      "nombre": "Chrysa Crichley",
+      "telefono": "282-803-8096",
+      "correo": "ccrichleyi@artisteer.com",
+      "nota": 3.7,
+      "promedio": 2.9,
+      "materiaId": 3
+    },
+    {
+      "id": 20,
+      "nombre": "Teddie Rickets",
+      "telefono": "999-763-7933",
+      "correo": "tricketsj@netlog.com",
+      "nota": 1.6,
+      "promedio": 1.8,
+      "materiaId": 2
+    },
+    {
+      "id": 21,
+      "nombre": "Waylin Alvey",
+      "telefono": "189-229-9498",
+      "correo": "walveyk@tripod.com",
+      "nota": 5.0,
+      "promedio": 2.2,
+      "materiaId": 9
+    },
+    {
+      "id": 22,
+      "nombre": "Georgianne McDade",
+      "telefono": "664-954-1161",
+      "correo": "gmcdadel@ftc.gov",
+      "nota": 3.0,
+      "promedio": 3.6,
+      "materiaId": 8
+    },
+    {
+      "id": 23,
+      "nombre": "Miner Baudassi",
+      "telefono": "525-292-0547",
+      "correo": "mbaudassim@usgs.gov",
+      "nota": 2.8,
+      "promedio": 3.4,
+      "materiaId": 5
+    },
+    {
+      "id": 24,
+      "nombre": "Rik Bowcock",
+      "telefono": "605-897-9608",
+      "correo": "rbowcockn@trellian.com",
+      "nota": 1.4,
+      "promedio": 1.4,
+      "materiaId": 4
+    },
+    {
+      "id": 25,
+      "nombre": "Ruthy Bonifas",
+      "telefono": "500-752-4607",
+      "correo": "rbonifaso@tiny.cc",
+      "nota": 1.7,
+      "promedio": 2.9,
+      "materiaId": 9
+    },
+    {
+      "id": 26,
+      "nombre": "Scarface Catcherside",
+      "telefono": "269-385-1629",
+      "correo": "scatchersidep@booking.com",
+      "nota": 4.2,
+      "promedio": 4.8,
+      "materiaId": 6
+    },
+    {
+      "id": 27,
+      "nombre": "Faith Godart",
+      "telefono": "777-227-7677",
+      "correo": "fgodartq@cafepress.com",
+      "nota": 3.9,
+      "promedio": 2.3,
+      "materiaId": 9
+    },
+    {
+      "id": 28,
+      "nombre": "Georg Baxster",
+      "telefono": "987-860-8757",
+      "correo": "gbaxsterr@patch.com",
+      "nota": 1.1,
+      "promedio": 4.1,
+      "materiaId": 4
+    },
+    {
+      "id": 29,
+      "nombre": "Astrid Studdard",
+      "telefono": "880-893-8949",
+      "correo": "astuddards@geocities.com",
+      "nota": 3.3,
+      "promedio": 1.1,
+      "materiaId": 1
+    },
+    {
+      "id": 30,
+      "nombre": "Clayborn Piffe",
+      "telefono": "139-316-9796",
+      "correo": "cpiffet@quantcast.com",
+      "nota": 2.6,
+      "promedio": 4.5,
+      "materiaId": 8
+    },
+    {
+      "id": 31,
+      "nombre": "Enrica Pennrington",
+      "telefono": "738-548-7925",
+      "correo": "epennringtonu@yellowbook.com",
+      "nota": 1.6,
+      "promedio": 2.7,
+      "materiaId": 8
+    },
+    {
+      "id": 32,
+      "nombre": "Netti Laffoley-Lane",
+      "telefono": "235-566-6064",
+      "correo": "nlaffoleylanev@hugedomains.com",
+      "nota": 2.3,
+      "promedio": 4.3,
+      "materiaId": 7
+    },
+    {
+      "id": 33,
+      "nombre": "Ewan Barense",
+      "telefono": "558-750-8872",
+      "correo": "ebarensew@alibaba.com",
+      "nota": 3.0,
+      "promedio": 3.3,
+      "materiaId": 10
+    },
+    {
+      "id": 34,
+      "nombre": "Leonidas De Antoni",
+      "telefono": "868-421-5409",
+      "correo": "ldex@elegantthemes.com",
+      "nota": 4.8,
+      "promedio": 3.6,
+      "materiaId": 10
+    },
+    {
+      "id": 35,
+      "nombre": "Jolene Hexum",
+      "telefono": "937-747-7913",
+      "correo": "jhexumy@ucoz.ru",
+      "nota": 4.5,
+      "promedio": 1.3,
+      "materiaId": 5
+    },
+    {
+      "id": 36,
+      "nombre": "Libbi Marrion",
+      "telefono": "879-699-9919",
+      "correo": "lmarrionz@amazon.com",
+      "nota": 4.9,
+      "promedio": 3.6,
+      "materiaId": 7
+    },
+    {
+      "id": 37,
+      "nombre": "Terrance Von Der Empten",
+      "telefono": "426-296-8051",
+      "correo": "tvon10@naver.com",
+      "nota": 1.6,
+      "promedio": 2.4,
+      "materiaId": 4
+    },
+    {
+      "id": 38,
+      "nombre": "Amii Scatchard",
+      "telefono": "115-596-2219",
+      "correo": "ascatchard11@ezinearticles.com",
+      "nota": 2.7,
+      "promedio": 2.3,
+      "materiaId": 8
+    },
+    {
+      "id": 39,
+      "nombre": "Rena Snead",
+      "telefono": "595-388-6919",
+      "correo": "rsnead12@tinypic.com",
+      "nota": 5.0,
+      "promedio": 1.6,
+      "materiaId": 7
+    },
+    {
+      "id": 40,
+      "nombre": "Holt Gaddie",
+      "telefono": "699-895-3157",
+      "correo": "hgaddie13@army.mil",
+      "nota": 2.1,
+      "promedio": 2.7,
+      "materiaId": 6
+    },
+    {
+      "id": 41,
+      "nombre": "Jon Kleinstein",
+      "telefono": "666-727-9526",
+      "correo": "jkleinstein14@samsung.com",
+      "nota": 1.1,
+      "promedio": 1.6,
+      "materiaId": 7
+    },
+    {
+      "id": 42,
+      "nombre": "Hendrik Jinkins",
+      "telefono": "860-193-4136",
+      "correo": "hjinkins15@princeton.edu",
+      "nota": 4.4,
+      "promedio": 2.1,
+      "materiaId": 3
+    },
+    {
+      "id": 43,
+      "nombre": "Lucien Daniells",
+      "telefono": "964-483-8358",
+      "correo": "ldaniells16@printfriendly.com",
+      "nota": 3.1,
+      "promedio": 3.1,
+      "materiaId": 6
+    },
+    {
+      "id": 44,
+      "nombre": "Electra Kimbrough",
+      "telefono": "542-421-7212",
+      "correo": "ekimbrough17@ed.gov",
+      "nota": 4.7,
+      "promedio": 2.8,
+      "materiaId": 9
+    },
+    {
+      "id": 45,
+      "nombre": "Sharia Sear",
+      "telefono": "475-911-5721",
+      "correo": "ssear18@microsoft.com",
+      "nota": 2.2,
+      "promedio": 1.5,
+      "materiaId": 7
+    },
+    {
+      "id": 46,
+      "nombre": "Misty Farmiloe",
+      "telefono": "751-781-8162",
+      "correo": "mfarmiloe19@mozilla.com",
+      "nota": 2.5,
+      "promedio": 3.6,
+      "materiaId": 10
+    },
+    {
+      "id": 47,
+      "nombre": "Eugenie Healks",
+      "telefono": "969-532-8660",
+      "correo": "ehealks1a@apple.com",
+      "nota": 3.6,
+      "promedio": 2.0,
+      "materiaId": 8
+    },
+    {
+      "id": 48,
+      "nombre": "Dido Kitcat",
+      "telefono": "446-166-6794",
+      "correo": "dkitcat1b@qq.com",
+      "nota": 4.8,
+      "promedio": 4.3,
+      "materiaId": 4
+    },
+    {
+      "id": 49,
+      "nombre": "Stefa Weatherburn",
+      "telefono": "205-681-4184",
+      "correo": "sweatherburn1c@jalbum.net",
+      "nota": 3.3,
+      "promedio": 3.6,
+      "materiaId": 7
+    },
+    {
+      "id": 50,
+      "nombre": "Jeramey Jobke",
+      "telefono": "619-952-4789",
+      "correo": "jjobke1d@abc.net.au",
+      "nota": 3.2,
+      "promedio": 1.2,
+      "materiaId": 8
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "nombre": "Introduccion"
+    },
+    {
+      "id": 2,
+      "nombre": "Logica"
+    },
+    {
+      "id": 3,
+      "nombre": "Metodologias"
+    },
+    {
+      "id": 4,
+      "nombre": "Moviles 1"
+    },
+    {
+      "id": 5,
+      "nombre": "Web 1"
+    },
+    {
+      "id": 6,
+      "nombre": "Bases de datos"
+    },
+    {
+      "id": 7,
+      "nombre": "Web 2"
+    },
+    {
+      "id": 8,
+      "nombre": "Moviles 2"
+    },
+    {
+      "id": 9,
+      "nombre": "Nuevas tcnologias"
+    },
+    {
+      "id": 10,
+      "nombre": "Ingles"
+    }
+  ]
+}
