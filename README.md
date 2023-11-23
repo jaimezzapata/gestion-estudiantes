@@ -1,8 +1,20 @@
-# React + Vite
+# Gestions de estudiantes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+La presente apliación es un ejmeplo de como sería el consumo en react de una API creada con json-server, y así entender un poco como es el funcionamiento de estas herramientas
 
-Currently, two official plugins are available:
+Hay que aclarar que json-server es una dependencias que permite una acciones básicas_
+- Crear
+- Editar
+- Buscar
+- Eliminar
+- Filtrar
+- Paginar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Estas funcionalidades estan dadas desde la cosntrucción de json-server, pero hay diferentes apis o servicios que ofrecen otro tipo de acciones y limitaciones
+
+
+# Instalación
+- 1 clonar el repositorio
+- 2 npm i (para instalar las dependencias)
+- 3 npm run json (para ejecutar el servicio de json-server)
+- 4 npm run dev (para levantar el servidor de react)
