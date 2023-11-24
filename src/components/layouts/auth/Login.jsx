@@ -1,6 +1,20 @@
-import React from "react";
-import './Login.css'
+import React, { useEffect, useState } from "react";
+import "./Login.css";
+import axios from "axios";
+
 const Login = () => {
+  const [usuarios, setUsuarios] = useState([]);
+
+  async function getUsuarios() {
+    let resultado = await axios.get("http://localhost:3100/usuarios");
+    setUsuarios(resultado.data);
+    console.log(resultado.data);
+  }
+
+  useEffect(() => {
+    getUsuarios();
+  }, []);
+
   return (
     <div className="login-container">
       <div className="login-header">
