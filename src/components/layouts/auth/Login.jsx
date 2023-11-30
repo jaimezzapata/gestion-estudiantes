@@ -2,11 +2,13 @@ import React, { useEffect, useState } from "react";
 import "./Login.css";
 import axios from "axios";
 import Swal from "sweetalert2";
+import { useNavigate } from "react-router-dom";
 
 const Login = () => {
   const [usuarios, setUsuarios] = useState([]);
   const [user, setUser] = useState("");
   const [password, setPassword] = useState("");
+  let redireccion = useNavigate()
   async function getUsuarios() {
     let resultado = await axios.get("http://localhost:3100/usuarios");
     setUsuarios(resultado.data);
@@ -31,6 +33,7 @@ const Login = () => {
         title: "Yeah...",
         text: "Inicio de sesión correcta...",
       });
+      redireccion('/panel')
     } else {
       Swal.fire({
         icon: "error",
