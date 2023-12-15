@@ -33,7 +33,7 @@
       "telefono": "626-167-5502",
       "correo": "chabbergham3@sbwire.com",
       "nota": 1.7,
-      "promedio": 2.0,
+      "promedio": 2,
       "materiaId": 3
     },
     {
@@ -51,7 +51,7 @@
       "telefono": "482-821-3742",
       "correo": "limmins5@engadget.com",
       "nota": 2.4,
-      "promedio": 2.0,
+      "promedio": 2,
       "materiaId": 10
     },
     {
@@ -96,7 +96,7 @@
       "telefono": "214-519-4910",
       "correo": "wdeguea@usgs.gov",
       "nota": 2.8,
-      "promedio": 5.0,
+      "promedio": 5,
       "materiaId": 5
     },
     {
@@ -114,7 +114,7 @@
       "telefono": "712-162-7286",
       "correo": "vcordonc@pcworld.com",
       "nota": 3.9,
-      "promedio": 1.0,
+      "promedio": 1,
       "materiaId": 3
     },
     {
@@ -122,7 +122,7 @@
       "nombre": "Riordan Snowling",
       "telefono": "591-337-4240",
       "correo": "rsnowlingd@ted.com",
-      "nota": 4.0,
+      "nota": 4,
       "promedio": 4.2,
       "materiaId": 3
     },
@@ -131,7 +131,7 @@
       "nombre": "Scarlett Dandison",
       "telefono": "789-557-7714",
       "correo": "sdandisone@last.fm",
-      "nota": 2.0,
+      "nota": 2,
       "promedio": 1.1,
       "materiaId": 1
     },
@@ -185,7 +185,7 @@
       "nombre": "Waylin Alvey",
       "telefono": "189-229-9498",
       "correo": "walveyk@tripod.com",
-      "nota": 5.0,
+      "nota": 5,
       "promedio": 2.2,
       "materiaId": 9
     },
@@ -194,7 +194,7 @@
       "nombre": "Georgianne McDade",
       "telefono": "664-954-1161",
       "correo": "gmcdadel@ftc.gov",
-      "nota": 3.0,
+      "nota": 3,
       "promedio": 3.6,
       "materiaId": 8
     },
@@ -293,7 +293,7 @@
       "nombre": "Ewan Barense",
       "telefono": "558-750-8872",
       "correo": "ebarensew@alibaba.com",
-      "nota": 3.0,
+      "nota": 3,
       "promedio": 3.3,
       "materiaId": 10
     },
@@ -347,7 +347,7 @@
       "nombre": "Rena Snead",
       "telefono": "595-388-6919",
       "correo": "rsnead12@tinypic.com",
-      "nota": 5.0,
+      "nota": 5,
       "promedio": 1.6,
       "materiaId": 7
     },
@@ -420,7 +420,7 @@
       "telefono": "969-532-8660",
       "correo": "ehealks1a@apple.com",
       "nota": 3.6,
-      "promedio": 2.0,
+      "promedio": 2,
       "materiaId": 8
     },
     {
@@ -493,7 +493,7 @@
       "nombre": "Ingles"
     }
   ],
-  "usuarios":[
+  "usuarios": [
     {
       "user": "admin",
       "password": "1234"
@@ -501,6 +501,16 @@
     {
       "user": "admin",
       "password": "1234"
+    },
+    {
+      "id": 1,
+      "password": "1234",
+      "user": "jaime"
+    },
+    {
+      "id": "e4775a76-c0b9-4608-a04b-fb3fe712a7b3",
+      "password": "1234",
+      "user": "Camila"
     }
   ]
 }
