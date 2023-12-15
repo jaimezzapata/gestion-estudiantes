@@ -495,19 +495,6 @@
   ],
   "usuarios": [
     {
-      "user": "admin",
-      "password": "1234"
-    },
-    {
-      "user": "admin",
-      "password": "1234"
-    },
-    {
-      "id": 1,
-      "password": "1234",
-      "user": "jaime"
-    },
-    {
       "id": "e4775a76-c0b9-4608-a04b-fb3fe712a7b3",
       "password": "1234",
       "user": "Camila"
